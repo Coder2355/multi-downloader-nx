@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
 requests
-NodeJS ==18.0.0
-NPM ==6.9.0 
-PNPM ==7.0.0 
+NodeJS
+NPM 
+PNPM
